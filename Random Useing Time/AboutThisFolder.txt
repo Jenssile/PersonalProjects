@@ -1,0 +1,7 @@
+This is just a fun project that involves making pseudo random using time.
+I have so far made it in:
+ - Python
+ - C#
+
+There will probably be more made in different languages.
+this is how I get to be familiar with a new language.
